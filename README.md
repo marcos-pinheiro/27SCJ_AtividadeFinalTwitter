@@ -1,5 +1,5 @@
 # 27SCJ_AtividadeFinalTwitter
 
-No Arquivo twitter-config.properties, preencha os campos chaves com os tokens solicitados sem aspas duplas. Ex:
+No Arquivo <b>twitter-config.properties</b> localizado na pasta <b>src</b>, preencha os campos chaves com os tokens solicitados sem aspas duplas. Ex:
 
 accessToken = xxxxxxxxxxx-yyyyyyyyyy
